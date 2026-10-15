@@ -13,7 +13,6 @@ function controlarMaquina(acao) {
 acao(); // Executa a função que foi recebida neste momento.
 }
 
-
 controlarMaquina(ligar); // Entrega a funçao ligar.
 controlarMaquina(desligar); // Agora entrega a função desligar.
-// SAÍDA: Máquina ligada! / Máquina desligada!
+// SAÍDA: Máquina ligada! / Máquina desligada
