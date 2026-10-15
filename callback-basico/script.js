@@ -18,5 +18,4 @@ funcaoRecebida(); // Os parênteses fazem a função recebida EXECUTAR.
 // Sem parênteses: entregamos a função dizerOla, sem executá-la aqui.
 
 executar(dizer0la);
-
-// SAÍDA: Olá, turma!
+// SAÍDA: Olá, turma
